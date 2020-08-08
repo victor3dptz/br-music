@@ -8,7 +8,7 @@ url:            "http://br-music.victor3d.com.br"
 
 
 # Build settings
-markdown:       kramdown
+#markdown:       kramdown
 include:
   - _pages
 
